@@ -1,0 +1,9 @@
+.playing-header{
+    Width: 13em;
+    font-size: 5em;
+    color:white;
+    background-color:green;
+    border-radius: 5em;
+    text-decoration: none;
+    font-family: "pixel";
+}

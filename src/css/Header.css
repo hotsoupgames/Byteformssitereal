@@ -1,0 +1,43 @@
+.header {
+    display: inline-flex;
+    vertical-align: middle;
+
+    width: calc(100% - 1em);
+    height: 6em;
+    background-color: #363636;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    margin: 0.5em;
+
+    cursor: pointer;
+    transition: border-color 0.25s;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+    font-size: 1em;
+    font-family: 'pixel';
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.75)), url('/src/assets/backgrounds/dots.png');
+}
+
+.byteforms-banner {
+    max-height: 3em;
+    padding: 0.5em;
+    padding-left: 1em;
+}
+
+.nav-links{
+    display: inline-flex;
+    vertical-align: middle;
+    position: fixed;
+    right: 3em;
+}
+.nav-link{
+    padding-left: 0.5em;
+    color: black;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-decoration: none;
+}

@@ -1,0 +1,64 @@
+.card-page {
+    margin: 0;
+    padding: 0;
+    margin-top: 5em;
+    width: 90vw;
+}
+
+.card-list{
+    margin: auto;
+    padding: 0;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 10.5em);
+}
+
+.card-background{
+    width: 10em;
+    border-radius: 1em;
+    background-color: #242424;
+    margin:0.25em;
+    cursor: pointer;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.card-info p {
+    margin: 0;
+    padding: 0;
+    width: 90%;
+    padding-left: 5%;
+    font-family: "pixel";
+}
+.card-image {
+    height: 10em;
+    margin: 0.5em;
+    padding: 0.25;
+}
+.card-filters{
+    background-color: #242424;
+    display: inline-flex;
+}
+
+.card-search-bar {
+    background-color: #313131;
+    height: 1.75em;
+    margin: 0.25em;
+}
+
+.card-search-bar-clear {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.search-input {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.filter-selection{
+    background-color: #313131;
+    border-color: transparent;
+    height: 2.25em;
+    margin: 0.25em;
+}

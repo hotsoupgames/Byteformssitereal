@@ -1,0 +1,2564 @@
+[
+  {
+    "name": "Ashnet",
+    "type": "Basic",
+    "text": "When this Byteform attacks, apply overheat 1 to the target",
+    "attack": 2,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "ashnet.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_ashnet.png"
+      }
+    ],
+    "coreType": [
+      "Firewire"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Pyrexel",
+    "type": "Basic",
+    "text": "When this byteform is attacked while suspended, apply overheat 1 to the attacker.",
+    "attack": 1,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "pyrexel.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_champion_pyrexel.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "champion_pyrexel.png"
+      }
+    ],
+    "coreType": [
+      "Firewire"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Brutefowl",
+    "type": "Basic",
+    "text": "When you suspend this byteform, apply overheat 1 to target program.",
+    "attack": 1,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "brutefowl.png"
+      }
+    ],
+    "coreType": [
+      "Firewire"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Kernel Ignis",
+    "type": "Basic",
+    "text": "Action - Terminate this byteform: Increase a status by 1. If the status is on a program, increase it by 2 instead.",
+    "attack": 0,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "kernel_ignis.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_kernel_ignis.png"
+      }
+    ],
+    "coreType": [
+      "Firewire"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Nano Croak",
+    "type": "Basic",
+    "text": "When this byteform takes a move action, it may move 2 spaces instead of 1.",
+    "attack": 2,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "nano_croak.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_nano_croak.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Rootkit",
+    "type": "Basic",
+    "text": "Action - Suspend this byteform : Swap this program with another program you control.",
+    "attack": 0,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "rootkit.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "champion_rootkit.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Springbit",
+    "type": "Basic",
+    "text": "Edgewalk (This byteform treats the left and right sides of grid as adjacent)",
+    "attack": 1,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "springbit.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Glitchbark",
+    "type": "Basic",
+    "text": "This byteform treats spaces adjacent to nodes you control as adjacent to them.",
+    "attack": 1,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "glitchbark.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_glitchbark.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Psylap",
+    "type": "Basic",
+    "text": "When this byteform attacks a program you don't control, the controller of that program must discard a card.",
+    "attack": 1,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "psylap.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_psylap.png"
+      }
+    ],
+    "coreType": [
+      "Psycore"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Neuroclaw",
+    "type": "Basic",
+    "text": "Whenever you draw a card, you may switch this byteform with another program you control.",
+    "attack": 1,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "neuroclaw.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "champion_neuroclaw.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_neuroclaw.png"
+      }
+    ],
+    "coreType": [
+      "Psycore"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Cerebrawl",
+    "type": "Basic",
+    "text": "When this byteform attacks an enemy program, apply packet loss 1 to it's controller. (your hand size is reduced by the ammount of packet loss you have. At the end of your suspend step, reduce packet loss by 1.)",
+    "attack": 2,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "cerebrawl.png"
+      }
+    ],
+    "coreType": [
+      "Psycore"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Pomswirl",
+    "type": "Basic",
+    "text": "Action - Suspend this byteform : Search your deck for a peripheral card, reveal it, and put it into your hand. Then discard a card from your hand. Shuffle your deck afterwards.",
+    "attack": 0,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "pomswirl.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_pomswirl.png"
+      }
+    ],
+    "coreType": [
+      "Psycore"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Cirqat",
+    "type": "Basic",
+    "text": "if this byteform is adjacent to another android, it gains +1/+0.",
+    "attack": 0,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "cirqat.png"
+      }
+    ],
+    "coreType": [
+      "Android"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Splicore",
+    "type": "Basic",
+    "text": "nan",
+    "attack": 0,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "splicore.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_splicore.png"
+      }
+    ],
+    "coreType": [
+      "Android"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Syntalus",
+    "type": "Basic",
+    "text": "Action - If there are 2 splicores adjactent to this byteform, you may fuse them with this byteform into Binarmor from either your hand, deck, or discard pile.",
+    "attack": 1,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "syntalus.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_syntalus.png"
+      }
+    ],
+    "coreType": [
+      "Android"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Codexa",
+    "type": "Basic",
+    "text": "When this byteform takes a move action, you may look at the top card of your deck, then you may put it to bottom of your deck.",
+    "attack": 1,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "codexa.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_codexa.png"
+      }
+    ],
+    "coreType": [
+      "Android"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Shellshock",
+    "type": "Basic",
+    "text": "When this byteform is attacked, apply Trojan 1 to your opponent. (When an opponent has 10 trojan counters, they lose the game.)",
+    "attack": 0,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "shellshock.png"
+      }
+    ],
+    "coreType": [
+      "Blackhat"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Jack.EXE",
+    "type": "Basic",
+    "text": "Corruption (when this byteform is attacked while suspended, destroy that byteform)",
+    "attack": 0,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "jack_exe.png"
+      }
+    ],
+    "coreType": [
+      "Blackhat"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Lil' Blackhat",
+    "type": "Basic",
+    "text": "When you suspend this byteform, you may terminate it. If you do, search your deck for a non-basic blackhat byteform, reveal it, and put it into your hand. Shuffle your deck afterwards.",
+    "attack": 0,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "lil_blackhat.png"
+      }
+    ],
+    "coreType": [
+      "Blackhat"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Scriptling",
+    "type": "Basic",
+    "text": "Whenever another byteform you control is terminated from an ability you control, this byteform gains +1/+0 until the end of the turn.",
+    "attack": 1,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "scriptling.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_scriptling.png"
+      }
+    ],
+    "coreType": [
+      "Blackhat"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Torrent Hare",
+    "type": "Basic",
+    "text": "Action - Suspend this byteform : Draw a card, then put 1 card from your hand on top of your deck.",
+    "attack": 0,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "torrent_hare.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_torrent_hare.png"
+      }
+    ],
+    "coreType": [
+      "Torrent"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Streamquill",
+    "type": "Basic",
+    "text": "Neighboring booted byteforms you control have +0/+1.",
+    "attack": 1,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "streamquill.png"
+      }
+    ],
+    "coreType": [
+      "Torrent"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Codepool",
+    "type": "Basic",
+    "text": "Datalock 1 (in order to target this byteform with any effects or abilities other than attacking, the controller of the effect or ability must discard 1 card)",
+    "attack": 2,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "codepool.png"
+      }
+    ],
+    "coreType": [
+      "Torrent"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Bitdam",
+    "type": "Basic",
+    "text": "When this byteform is booted, you may suspend target program.",
+    "attack": 1,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "bitdam.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_bitdam.png"
+      }
+    ],
+    "coreType": [
+      "Torrent"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Daemonlotl",
+    "type": "Fusion",
+    "text": "Action - terminate target byteform you control : Boot target program you control. You may only use one daemonlotl ability per turn.",
+    "attack": 2,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "daemonlotl.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_daemonlotl.png"
+      }
+    ],
+    "coreType": [
+      "Blackhat",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Gearshade",
+    "type": "Fusion",
+    "text": "Action - Terminate an android you control: Draw 2 cards.",
+    "attack": 1,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "gearshade.png"
+      }
+    ],
+    "coreType": [
+      "Android",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Sporemind",
+    "type": "Fusion",
+    "text": "Action :  your opponent may discard a card, if they choose not to you may note the location of all suspended programs you control, shuffle those programs, then place them back on any noted spot.",
+    "attack": 1,
+    "durability": 4,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "sporemind.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_sporemind.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Psycore"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Botanica",
+    "type": "Fusion",
+    "text": "Whenever a program swaps position, androids you control gain +1/+0 until the end of turn.",
+    "attack": 1,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "botanica.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_botanica.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Android"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Kernel Culler",
+    "type": "Fusion",
+    "text": "Action : Terminate target byteform you control : Search your deck for a node, reveal it and put it into your hand. Then shuffle your deck.",
+    "attack": 2,
+    "durability": 4,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "kernel_culler.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_kernel_culler.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Firewall Gastropod",
+    "type": "Fusion",
+    "text": "Action - Suspend this byteform : look at the top 3 cards of your deck, you may put one of them into your hand, and then put the rest back in any order.",
+    "attack": 0,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "firewall_gastropod.png"
+      }
+    ],
+    "coreType": [
+      "Psycore",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Encryptide",
+    "type": "Fusion",
+    "text": "While this byteform is suspended, it's attack is equal to it's defense. Datalock 1",
+    "attack": 0,
+    "durability": 4,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "encryptide.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_encryptide.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Synthara",
+    "type": "Fusion",
+    "text": "Neighboring friendly byteforms have \"action - Suspend this byteform : draw a card then discard a card.\"",
+    "attack": 1,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "synthara.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_synthara.png"
+      }
+    ],
+    "coreType": [
+      "Psycore",
+      "Android"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Nova Drive",
+    "type": "Fusion",
+    "text": "Action - Suspend this Byteform : Give target program Overheat 4.",
+    "attack": 3,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "nova_drive.png"
+      },
+      {
+        "set": "Box Topper",
+        "flair": "Boxtopper",
+        "rarity": "Ultra Rare",
+        "image": "boxtopper_nova_drive.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "champion_nova_drive.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Android"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Proxywulf",
+    "type": "Fusion",
+    "text": "Action - this byteform may make a move action then an attack action.",
+    "attack": 2,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "proxywulf.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_proxywulf.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Rootlink"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Brutefin",
+    "type": "Fusion",
+    "text": "While this byteform is booted it has +4/+0.",
+    "attack": 2,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "brutefin.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_brutefin.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Phishfang",
+    "type": "Fusion",
+    "text": "Whenever you apply any ammount of overheat, you may apply Trojan 1 to target player instead.",
+    "attack": 0,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "phishfang.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "9th-Life Protocol",
+    "type": "Fusion",
+    "text": "Action - Terminate this byteform: Search your deck for a card, put it into your hand. Shuffle your deck afterwards. Whenever your opponent discards a card from their hand, you may put 9th-Life Protocol from your discard into your hand.",
+    "attack": 2,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "9th_life_protocol.png"
+      }
+    ],
+    "coreType": [
+      "Psycore",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Hiveblaze",
+    "type": "Fusion",
+    "text": "Action - Your opponent may show you their hand, if they do, chose a card and discard it, if they do not swap the power and toughness of hiveblaze until the end of this turn. If your opponent has 0 cards in hand, this byteform Has +0/+4.",
+    "attack": 1,
+    "durability": 4,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "hiveblaze.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_hiveblaze.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Psycore"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Torrentier",
+    "type": "Fusion",
+    "text": "During your suspend phase you may boot this byteform if its already suspended.",
+    "attack": 4,
+    "durability": 4,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "torrentier.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "champion_torrentier.png"
+      }
+    ],
+    "coreType": [
+      "Android",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Psyber",
+    "type": "Fusion",
+    "text": "Androids you control have \"When this byteform attacks an enemy byteform, your opponent discards a card.\"",
+    "attack": 4,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "psyber.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_psyber.png"
+      }
+    ],
+    "coreType": [
+      "Psycore",
+      "Android"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Node Sprite",
+    "type": "Fusion",
+    "text": "If this byteform is neighboring a node, any effect that could be applied to it, from that node, is also applied to all applicable byteforms you control.",
+    "attack": 0,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "node_sprite.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_node_sprite.png"
+      },
+      {
+        "set": "Box Topper",
+        "flair": "Boxtopper",
+        "rarity": "Ultra Rare",
+        "image": "boxtopper_node_sprite.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Android"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Zero-Day Sequoia",
+    "type": "Fusion",
+    "text": "Whenever two or more programs you don't control are swapped, you may pick one at random and terminate it.",
+    "attack": 0,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "zero_day_sequoia.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "The Phishing Depth",
+    "type": "Fusion",
+    "text": "Whenever this byteform deals damage to a program, apply that much trojan to that programs controller instead.",
+    "attack": 1,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "the_phishing_depth.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_the_phishing_depth.png"
+      }
+    ],
+    "coreType": [
+      "Blackhat",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Omenclaw",
+    "type": "Fusion",
+    "text": "Action - Reveal the top card of your deck: this byteform gains +2/+2 for each core on the revealed card until the end of turn.",
+    "attack": 3,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "omenclaw.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_omenclaw.png"
+      }
+    ],
+    "coreType": [
+      "Psycore",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Redhand",
+    "type": "Fusion",
+    "text": "Action - Terminate a basic byteform you control : switch this byteform with any suspended program.",
+    "attack": 2,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "redhand.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_redhand.png"
+      }
+    ],
+    "coreType": [
+      "Android",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Torrentasp",
+    "type": "Fusion",
+    "text": "Byteforms you control have \"action - Suspend this byteform: switch with another program.\"",
+    "attack": 1,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "torrentasp.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_torrentasp.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Psychea",
+    "type": "Fusion",
+    "text": "Whenever your opponent discards a card, you may switch 2 programs you control.",
+    "attack": 0,
+    "durability": 4,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "psychea.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_psychea.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Psycore"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Pyro Core",
+    "type": "Fusion",
+    "text": "Adjacent byteforms have \"when this byteform attacks, apply overheat 2\".",
+    "attack": 4,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "pyro_core.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Android"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Solarose",
+    "type": "Fusion",
+    "text": "When this byteform takes a move action, it may move 3  spaces instead of 1. When this byteform moves, it may move through other programs. When this byteform moves through an enemy program, boot it. Then if it is a byteform, apply Overheat 3 to it.",
+    "attack": 1,
+    "durability": 4,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "solarose.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_solarose.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Rootlink"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Fluxapus",
+    "type": "Fusion",
+    "text": "Replace all abilites for other byteforms you control with \"when this byteform attacks another byteform, apply Overheat 4.\" Datalock 2",
+    "attack": 1,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "fluxapus.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_fluxapus.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Scorchwabbit",
+    "type": "Fusion",
+    "text": "Whenever you terminate a byteform you control, apply overheat 2 to target program.",
+    "attack": 4,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "scorchwabbit.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_scorchwabbit.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Trojan Tails",
+    "type": "Fusion",
+    "text": "Action - Your opponent may discard a card from their hand. If they do not, apply Trojan 1 to them.",
+    "attack": 1,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "trojan_tails.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_trojan_tails.png"
+      }
+    ],
+    "coreType": [
+      "Psycore",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Synapsear",
+    "type": "Fusion",
+    "text": "This byteform has +1/+0 for every 5 cards in your opponents discard pile.",
+    "attack": 0,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "synapsear.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_synapsear.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Psycore"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Inkjet Nautilus",
+    "type": "Fusion",
+    "text": "Neighboring enemy byteforms have no abilities.",
+    "attack": 0,
+    "durability": 4,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "inkjet_nautilus.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_inkjet_nautilus.png"
+      }
+    ],
+    "coreType": [
+      "Android",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Binarmor",
+    "type": "Fusion",
+    "text": "You can only fuse into this byteform from the ability of Syntalus. Datalock 1",
+    "attack": 4,
+    "durability": 6,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Ultra Rare",
+        "image": "binarmor.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_binarmor.png"
+      }
+    ],
+    "coreType": [
+      "Android",
+      "Android",
+      "Android"
+    ],
+    "numCores": 3
+  },
+  {
+    "name": "Neuronova",
+    "type": "Evolution",
+    "text": "Evolves from psylap. This byteform takes no damage from attacks.",
+    "attack": 5,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Ultra Rare",
+        "image": "neuronova.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_neuronova.png"
+      }
+    ],
+    "coreType": [
+      "Psycore",
+      "Psycore"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Packet Bounce",
+    "type": "Evolution",
+    "text": "Evolves from psylap. Action - Suspend this byteform : Target player gains packetloss 2.",
+    "attack": 2,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Ultra Rare",
+        "image": "packet_bounce.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_packet_bounce.png"
+      }
+    ],
+    "coreType": [
+      "Psycore",
+      "Psycore"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Core Spout",
+    "type": "Special",
+    "text": "If this byteform is the first card you drew this turn, you may play it.",
+    "attack": 2,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Ultra Rare",
+        "image": "core_spout.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_core_spout.png"
+      }
+    ],
+    "coreType": [
+      "Torrent",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Kernel Lantern",
+    "type": "Evolution",
+    "text": "Evolves from jack.exe. When this byteform attacks, it attacks all neighboring programs, including programs you control. When this byteform  attacks a program, apply trojan 1 to it's controller. Corruption.",
+    "attack": 2,
+    "durability": 4,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Ultra Rare",
+        "image": "kernel_lantern.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_kernel_lantern.png"
+      }
+    ],
+    "coreType": [
+      "Blackhat",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Malburn",
+    "type": "Special",
+    "text": "You may play this Byteform if a program in play has at least Overheat 5.",
+    "attack": 4,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Ultra Rare",
+        "image": "malburn.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_malburn.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Firewire"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "DDoSprout",
+    "type": "Fusion",
+    "text": "When this byteform takes a move action, it may move any number of spaces in a single direction.",
+    "attack": 4,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Ultra Rare",
+        "image": "ddosprout.png"
+      },
+      {
+        "set": "Base Set",
+        "flair": "Chromatic",
+        "rarity": "Chromatic",
+        "image": "chromatic_ddosprout.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Rootlink"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Fetch Core",
+    "type": "Peripheral",
+    "text": "Search your deck for a basic byteform, reveal it, and put it into your hand. Shuffle your deck afterwards.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "fetch_core.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_fetch_core.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Cross-Link",
+    "type": "Peripheral",
+    "text": "Fuse two adjacent byteforms you control.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "cross_link.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Recompile",
+    "type": "Peripheral",
+    "text": "Swap two suspended programs you control.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "recompile.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Burn Drive",
+    "type": "Peripheral",
+    "text": "As a cost to play this card, suspend target firewire byteform you control.  Apply overheat 2 to target program.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "burn_drive.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Recovery Drive",
+    "type": "Peripheral",
+    "text": "Put target byteform from your discard pile into your hand.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "recovery_drive.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Git Grabber",
+    "type": "Peripheral",
+    "text": "Look at the top 7 cards of your deck, you may reveal a command from there and put it into your hand.  Shuffle the rest into your deck.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "git_grabber.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Hotswap Module",
+    "type": "Peripheral",
+    "text": "Target byteform moves 1 space.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "hotswap_module.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Backdoor Patch",
+    "type": "Peripheral",
+    "text": "Put target basic blackhat byteform from your discard pile on to your homerow booted.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "backdoor_patch.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Kernel Crash Dice",
+    "type": "Peripheral",
+    "text": "Target a suspended program you control,  your opponent must guess the card.  Then reveal it, if they guessed incorrectly, draw a card.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "kernel_crash_dice.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Lotus Drive",
+    "type": "Peripheral",
+    "text": "Search your deck for a basic rootlink byteform, reveal it, and put it into play suspended adjacent to a fusion byteform you control.  Shuffle your deck afterwards.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "lotus_drive.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Reset Key",
+    "type": "Peripheral",
+    "text": "As a cost to play this card, suspend target psycore byteform you control.  Your opponent shuffles their hand into their deck and draws that many cards.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "reset_key.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Exchange Drive",
+    "type": "Peripheral",
+    "text": "Reveal a byteform from your hand and put it into your deck, if you do, search your deck for a byteform with equal or less cores than the revealed byteform, reveal it and put it into your hand.  Shuffle your deck afterwards.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "exchange_drive.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Serial Bus Stop",
+    "type": "Peripheral",
+    "text": "Look at the top 5 cards of your deck, you may reveal a peripheral card you find there and put it into your hand.  If you do, discard the rest.  If you do not, shuffle your deck.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "serial_bus_stop.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Antivirus",
+    "type": "Peripheral",
+    "text": "Remove up to 3 trojan counters from yourself.  Target opponent draws cards equal to the amount of counters removed this way.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "antivirus.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Core Booster",
+    "type": "Peripheral",
+    "text": "Target basic byteform gains 1 null core this turn.  (A null core is a core without a type.)",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "core_booster.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Overwrite Terminal",
+    "type": "Peripheral",
+    "text": "Search your deck for a card, and put it into your discard pile.  Shuffle your deck afterwards.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "overwrite_terminal.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Lag Switch",
+    "type": "Peripheral",
+    "text": "As additonal cost, suspend target torrent byteform you control.  Give target suspended program quarantine (if a program with quarantine would boot, remove quarantine from it instead).",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "lag_switch.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Packet Sniper",
+    "type": "Peripheral",
+    "text": "Deal 1 damage to target program.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "packet_sniper.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Encrypted Drive",
+    "type": "Peripheral",
+    "text": "Remove target card from target opponent's discard pile from the game.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "encrypted_drive.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Fragmented Drive",
+    "type": "Peripheral",
+    "text": "Shuffle your hand into your deck and draw cards equal to amount shuffled in minus 2.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "fragmented_drive.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Cyborg Nexus",
+    "type": "Node",
+    "text": "Neighboring androids have +1/+0.",
+    "attack": 0,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "cyborg_nexus.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Fusion Matrix",
+    "type": "Node",
+    "text": "Neighboring basic byteforms have 'Action - Fuse with another basic byteform you control neighboring this node.'",
+    "attack": 0,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "fusion_matrix.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_fusion_matrix.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Power Station",
+    "type": "Node",
+    "text": "Action - Suspend this node: Boot target program you don't control.",
+    "attack": 0,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "power_station.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Ransom Node",
+    "type": "Node",
+    "text": "Neighboring byteforms have -1 core (to a mininum of 1 core).",
+    "attack": 0,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "ransom_node.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Firmware Furnace",
+    "type": "Node",
+    "text": "Whenever overheat is applied, 1 additional overheat is applied.",
+    "attack": 0,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "firmware_furnace.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Overclock Spire",
+    "type": "Node",
+    "text": "Neighboring byteforms have +2/+0 and 'When this byteform uses and action, it gains overheat 1\".",
+    "attack": 0,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "overclock_spire.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Digital Forrest",
+    "type": "Node",
+    "text": "Neighboring rootlink byteforms second move action is free.",
+    "attack": 0,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "digital_forrest.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Hyperthread Hub",
+    "type": "Node",
+    "text": "When a basic byteform boots while neighboring this node, they have +1 core this turn.",
+    "attack": 0,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Ultra Rare",
+        "image": "hyperthread_hub.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Shutdown /R",
+    "type": "Command",
+    "text": "Discard your hand and draw 7 cards.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "shutdown_r.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Fetch --byteform",
+    "type": "Command",
+    "text": "Search your deck for a byteform, reveal it, and put it into your hand.  Shuffle your deck afterwards.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "fetch_byteform.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Core Gambit",
+    "type": "Command",
+    "text": "Reveal the top card of your deck.  Then draw 2 cards fdor each core on the revealed card.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "core_gambit.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Data Leak",
+    "type": "Command",
+    "text": "You may search your deck for up to 2 basic torrent byteforms and put them on your homerow booted.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "data_leak.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Memory Defrag",
+    "type": "Command",
+    "text": "You and your opponent shuffle your hands into your deck.  Your opponents draw 4 cards, you draw cards equal to the most cards shuffled into either deck from this effect.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "memory_defrag.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Alt+F4",
+    "type": "Command",
+    "text": "Terminate target suspended program.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "alt_f4.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "-Empower /Android",
+    "type": "Command",
+    "text": "Androids you control gain +2/+2 this turn.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "empower_android.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "/Rebuild",
+    "type": "Command",
+    "text": "You may play this command on your opponents turn when a byteform attacks, if you did not play a command on your last turn.  Switch 2 target programs you control.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "rebuild.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Power Cycle",
+    "type": "Command",
+    "text": "Boot target suspended program you control.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "power_cycle.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Null Protocol",
+    "type": "Command",
+    "text": "You may play this command on you opponents turn when they play a command, if you did not play a command on your last turn.  Cancel target command.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "null_protocol.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Rat Command",
+    "type": "Command",
+    "text": "Pick one: You may switch two of your opponent's programs.    You may switch one of your programs with one of your opponent's programs.",
+    "attack": 0,
+    "durability": 0,
+    "printings": [
+      {
+        "set": "Base Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "rat_command.png"
+      }
+    ],
+    "coreType": [],
+    "numCores": 0
+  },
+  {
+    "name": "Scorchylo",
+    "type": "Basic",
+    "text": "Action - Suspend this byteform : Apply overheat 1 to all neighboring programs.",
+    "attack": 1,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "scorchylo.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_scorchylo.png"
+      }
+    ],
+    "coreType": [
+      "Firewire"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Cactryptid",
+    "type": "Basic",
+    "text": "When this byteform moves or is switched into another space, deal 1 damage to an adjacent program.",
+    "attack": 1,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "cactryptid.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_cactryptid.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Cypix",
+    "type": "Basic",
+    "text": "This byteform has +1/+0 for each card you have in your hand more than your opponent.",
+    "attack": 0,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "cypix.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_cypix.png"
+      }
+    ],
+    "coreType": [
+      "Psycore"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Locatrix",
+    "type": "Basic",
+    "text": "Action - Suspend this byteform: Search your deck for a basic android byteform, reveal it, and put it into your hand. Shuffle your deck afterwards.",
+    "attack": 0,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "locatrix.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_locatrix.png"
+      }
+    ],
+    "coreType": [
+      "Android"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Heavycore",
+    "type": "Basic",
+    "text": "This byteform may move into spaces with enemy programs. If they do, move the program into the next space in a straight line, if they can not be moved, this byteform can not be moved into that space.",
+    "attack": 1,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "heavycore.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_heavycore.png"
+      }
+    ],
+    "coreType": [
+      "Blackhat"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Bytejin",
+    "type": "Basic",
+    "text": "Adjacent programs have no abilities.",
+    "attack": 0,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "bytejin.png"
+      },
+      {
+        "set": "Promo Set",
+        "flair": "Promo",
+        "rarity": "Chromatic",
+        "image": "promo_bytejin.png"
+      }
+    ],
+    "coreType": [
+      "Torrent"
+    ],
+    "numCores": 1
+  },
+  {
+    "name": "Aqualux",
+    "type": "Fusion",
+    "text": "During your suspend phase, you may apply overheat X to target program. X is equal to the number of booted programs you control.",
+    "attack": 2,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "aqualux.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Thermalcrypt",
+    "type": "Evolution",
+    "text": "Evolves from Pyrexel. When this bytform boots, apply overheat 1 to all enemy programs",
+    "attack": 3,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "thermalcrypt.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Firewire"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Overforge",
+    "type": "Fusion",
+    "text": "Action - Suspend this Byteform : Target a program. Until the end of this turn, whenever any other program recieves overheat, targeted program recieves the same ammount of overheat.",
+    "attack": 1,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "overforge.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Android"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Bugbyte",
+    "type": "Fusion",
+    "text": "When this byteform declares it's first move action each turn, your opponent may discard a card from their hand, if they do not, Bugbyte may move 2 spaces instead of one.",
+    "attack": 2,
+    "durability": 4,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "bugbyte.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Psycore"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Patchflutter",
+    "type": "Special",
+    "text": "When you switch a program, you may switch it with this card from your hand.",
+    "attack": 2,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "patchflutter.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Rootlink"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Mindrift",
+    "type": "Fusion",
+    "text": "At the end of each players turn, if this byteform is booted, that player discards a card.",
+    "attack": 0,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "mindrift.png"
+      }
+    ],
+    "coreType": [
+      "Psycore",
+      "Torrent"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Imperatrix",
+    "type": "Fusion",
+    "text": "Other programs you control have corruption.",
+    "attack": 0,
+    "durability": 1,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "imperatrix.png"
+      }
+    ],
+    "coreType": [
+      "Android",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Petalbyte",
+    "type": "Fusion",
+    "text": "When this byteform moves or switches it gains +1/+0 until the end of turn.",
+    "attack": 0,
+    "durability": 4,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "petalbyte.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Android"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Mister Overgrowl",
+    "type": "Fusion",
+    "text": "Action - Terminate a program you control : Move this byteform into an empty neighboring space.",
+    "attack": 4,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "mister_overgrowl.png"
+      }
+    ],
+    "coreType": [
+      "Rootlink",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Dataquash",
+    "type": "Evolution",
+    "text": "Evolves from Heavycore. Action - Boot target adjacent enemy program. This byteform may move into spaces with a basic byteform, if it does, terminate that basic byteform.",
+    "attack": 2,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Uncommon",
+        "image": "dataquash.png"
+      }
+    ],
+    "coreType": [
+      "Blackhat",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Nullgrin",
+    "type": "Evolution",
+    "text": "Evolves from lil' blackhat. Action - Terminate target byteform you control : This byteform gains +2/+0 until the end of turn.",
+    "attack": 2,
+    "durability": 3,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Rare",
+        "image": "nullgrin.png"
+      }
+    ],
+    "coreType": [
+      "Blackhat",
+      "Blackhat"
+    ],
+    "numCores": 2
+  },
+  {
+    "name": "Searshade",
+    "type": "Fusion",
+    "text": "Whenever a byteform you control evolves, apply Overheat 3 to target program.",
+    "attack": 2,
+    "durability": 2,
+    "printings": [
+      {
+        "set": "Starter Set",
+        "flair": "Base",
+        "rarity": "Common",
+        "image": "searshade.png"
+      }
+    ],
+    "coreType": [
+      "Firewire",
+      "Blackhat"
+    ],
+    "numCores": 2
+  }
+]
