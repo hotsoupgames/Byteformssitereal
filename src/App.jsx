@@ -3,6 +3,9 @@ import Home from './pages/Home'
 import Header from './components/Header'
 import Playing from './pages/Playing'
 import Cards from './pages/Cards'
+import DeckBuilder from './pages/DeckBuilder'
+import Blog from './pages/Blog'
+import Products from './pages/Products'
 import './css/App.css'
 
 function App() {
@@ -15,6 +18,9 @@ function App() {
           <Route path="/" element={<Home />}/>
           <Route path="/playing" element={<Playing />}/>
           <Route path="/cards" element={<Cards />}/>
+          <Route path="/deckbuilder" element={<DeckBuilder />}/>
+          <Route path="/blog" element={<Blog />}/>
+          <Route path="/products" element={<Products />}/>
         </Routes>
       </main>
     </div>
